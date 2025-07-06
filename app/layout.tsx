@@ -30,7 +30,7 @@ export const metadata: Metadata = {
     },
   },
   twitter: {
-    title: "HDM",
+    title: "gleb.shersh",
     card: "summary_large_image",
   },
   icons: {
