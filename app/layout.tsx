@@ -13,8 +13,6 @@ export const metadata: Metadata = {
   openGraph: {
     title: "gleb.shersh",
     description: "Я занимаюсь веб-разработкой, дизайном и оптимизация SEO.",
-    url: "https://gleb-shersh.web.app",
-    siteName: "gleb-shersh.web.app",
     locale: "en-US",
     type: "website",
   },
